@@ -26,7 +26,6 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Working with TODO items in Rider](https://blog.jetbrains.com/dotnet/2017/05/11/working-todo-items-rider/) (JetBrains)
 * [Local History in Rider: undo and redo on steroids](https://blog.jetbrains.com/dotnet/2017/05/17/local-history-rider-undo-redo-steroids/) (JetBrains)
 * [Incremental build in Rider](https://blog.jetbrains.com/dotnet/2017/05/24/incremental-build-rider/) (JetBrains)
-* [Running Entity Framework (Core) commands in Rider](https://blog.jetbrains.com/dotnet/2017/08/09/running-entity-framework-core-commands-rider/) (JetBrains)
 * [Open files and folders, and more project model improvements in Rider](https://blog.jetbrains.com/dotnet/2017/09/28/open-files-folders-project-model-improvements-rider/) (JetBrains)
 * [Revert and reword Git commits, control commit message style with Rider](https://blog.jetbrains.com/dotnet/2017/09/29/revert-reword-git-commits-control-commit-message-style-rider/) (JetBrains)
 * [Find in Path gutter and more UI improvements in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/10/02/find-path-gutter-ui-improvements-rider-2017-2/) (JetBrains)
@@ -39,6 +38,25 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Unit testing improvements in Rider 2017.3](https://blog.jetbrains.com/dotnet/2017/12/12/unit-testing-improvements-rider-2017-3/) (JetBrains)
 * [Credential providers for private NuGet feeds in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/06/credential-providers-private-nuget-feeds-rider-2018-1-eap/) (JetBrains)
 * [Run web site projects, edit file properties and more project model updates in Rider](https://blog.jetbrains.com/dotnet/2018/03/13/run-web-site-projects-edit-file-properties-project-model-updates-rider/) (JetBrains)
+* [Roslyn analyzer support in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/22/roslyn-analyzer-support-rider-2018-1-eap/) (JetBrains)
+* [Viewing, filtering and navigation for log files in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/28/viewing-filtering-navigation-log-files-rider-2018-1-eap/) (JetBrains)
+* [Navigation improvements in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/04/04/navigation-improvements-rider-2018-1-eap/) (JetBrains)
+* JetBrains Annotations series
+  * [Improving Rider and ReSharper code analysis using JetBrains Annotations](http://blog.jetbrains.com/dotnet/2018/05/02/improving-rider-resharper-code-analysis-using-jetbrains-annotations/) (JetBrains)
+  * [What are JetBrains Annotations - and how to get them?](https://blog.jetbrains.com/dotnet/2018/05/03/what-are-jetbrains-annotations/) (JetBrains)
+  * [Better null checks, string formatting and path completion with JetBrains Annotations](http://blog.jetbrains.com/dotnet/2018/05/04/better-null-checks-string-formatting-path-completion-jetbrains-annotations/) (JetBrains)
+* Code analysis series
+  * [Introduction to code analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/17/introduction-code-analysis-rider/) (JetBrains)
+  * [Solution-wide analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/21/solution-wide-analysis-rider/) (JetBrains)
+  * [Using Rider to spot errors before our application runs](https://blog.jetbrains.com/dotnet/2018/05/22/using-rider-spot-errors-application-runs/) (JetBrains)
+  * [Learning best practices and language features using Rider code inspections](https://blog.jetbrains.com/dotnet/2018/05/23/learning-best-practices-language-features-using-rider-code-inspections/) (JetBrains)
+  * [Consistent code bases using Rider code analysis](https://blog.jetbrains.com/dotnet/2018/05/24/consistent-code-bases-using-rider-code-analysis/) (JetBrains)
+* [Version control improvements in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/06/05/version-control-improvements-rider-2018-1/) (JetBrains)
+* [Solution Explorer and Project Model updates in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/04/solution-explorer-project-model-updates-rider-2018-2-eap/) (JetBrains)
+* [Add references and debug code snippets in Rider C# Interactive](https://blog.jetbrains.com/dotnet/2018/07/06/add-references-debug-code-snippets-rider-c-interactive/) (JetBrains)
+* [Integrated spell checking with ReSpeller in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/07/10/integrated-spell-checking-respeller-resharper-rider/) (JetBrains)
+* [More meaningful call stacks, thread-specific breakpoints and other debugger improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/11/meaningful-call-stacks-thread-specific-breakpoints-debugger-improvements-rider-2018-2-eap/) (JetBrains)
+* [Unit test coverage and continuous testing. Now in Rider!](https://blog.jetbrains.com/dotnet/2018/07/20/unit-test-coverage-continuous-testing-now-rider/) (JetBrains)
 
 ### Videos
 
@@ -61,7 +79,9 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Debugging third-party code with Rider](https://blog.jetbrains.com/dotnet/2017/12/20/debugging-third-party-code-rider/) (JetBrains)
 * [Debugging third-party code with Rider – now in Mono!](https://blog.jetbrains.com/dotnet/2018/02/19/debugging-third-party-code-with-rider-now-in-mono/) (JetBrains)
 * [Simultaneous debugging of JavaScript and .NET code with Rider](https://blog.jetbrains.com/dotnet/2018/01/17/simultaneous-debugging-javascript-net-code-rider/) (JetBrains)
-* [https://blog.jetbrains.com/dotnet/2018/03/08/exception-popup-improved-smart-step-symbol-servers-rider-2018-1-eap-debugger-updates/](https://blog.jetbrains.com/dotnet/2018/03/08/exception-popup-improved-smart-step-symbol-servers-rider-2018-1-eap-debugger-updates/) (JetBrains)
+* [Exception popup, improved Smart Step Into, symbol servers, and more Rider 2018.1 EAP debugger updates](https://blog.jetbrains.com/dotnet/2018/03/08/exception-popup-improved-smart-step-symbol-servers-rider-2018-1-eap-debugger-updates/) (JetBrains)
+* [Memory View - Exploring .NET memory while debugging with Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/04/03/memory-view-exploring-net-memory-debugging-rider-2018-1/) (JetBrains)
+* [Debugging ASP.NET Core apps in a local Docker container](https://blog.jetbrains.com/dotnet/2018/07/18/debugging-asp-net-core-apps-local-docker-container/) (JetBrains)
 
 ### Videos
 
@@ -90,22 +110,43 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [C# 7.0 and 7.1 support in ReSharper - Default literal](https://blog.jetbrains.com/dotnet/2017/10/23/c-7-0-7-1-support-resharper-default-literal/) (JetBrains)
 * [C# 7.0 and 7.1 support in ReSharper - Tuples](https://blog.jetbrains.com/dotnet/2017/10/24/c-7-0-7-1-support-resharper-tuples/) (JetBrains)
 * [C# 7.0 and 7.1 support in ReSharper - Pattern matching with generics](https://blog.jetbrains.com/dotnet/2017/10/25/c-7-0-7-1-support-resharper-pattern-matching-generics/) (JetBrains)
+* [C# 7.3 in Rider and ReSharper - Declaration expressions in initializers and queries](https://blog.jetbrains.com/dotnet/2018/07/12/declaration-expressions-in-initializers-and-queries/) (JetBrains)
+* [C# 7.3 in Rider and ReSharper - Tuple equality](https://blog.jetbrains.com/dotnet/2018/07/13/tuple-equality/) (JetBrains)
+* [C# 7.3 in Rider and ReSharper - ← Debugging ASP.NET Core apps in a local Docker container
+Unmanaged, delegate and enum type constraints](https://blog.jetbrains.com/dotnet/2018/07/19/unmanaged-delegate-enum-type-constraints-c-7-3-rider-resharper/) (JetBrains)
 
 ### F#
 
 * [F# support in Rider - What's there and what's coming](https://blog.jetbrains.com/dotnet/2017/05/08/rider-is-now-also-an-fsharp-ide-adding-fsharp-support/) (JetBrains)
 * [F# support improvements in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/10/10/f-support-improvements-rider-2017-2/) (JetBrains)
+* [Navigation, find usages, file structure for F# scripts in Rider 2018.1 EAP!](https://blog.jetbrains.com/dotnet/2018/03/27/navigation-find-usages-file-structure-f-scripts-rider-2018-1-eap/) (JetBrains)
+* [Rider 2018.1 brings file ordering to F# projects](https://blog.jetbrains.com/dotnet/2018/04/11/rider-2018-1-brings-file-ordering-f-projects/) (JetBrains)
 
 ### JavaScript and TypeScript
 
 * [Better JavaScript and TypeScript support in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/09/25/better-javascript-typescript-support-rider-2017-2/) (JetBrains)
 * [Rider 2017.3 improved support for JavaScript, TypeScript and CSS](https://blog.jetbrains.com/dotnet/2018/02/21/general-web-development-updates-rider-2017-3/) (JetBrains)
+* [Working with NPM and Yarn in Rider](https://blog.jetbrains.com/dotnet/2018/06/22/working-npm-yarn-rider/) (JetBrains)
 
 ### Web development
 
 * [Web framework updates in Rider 2017.3 – Angular, Vue.js, ...](https://blog.jetbrains.com/dotnet/2018/02/22/web-framework-updates-rider-2017-3-angular-vue-js/) (JetBrains)
 * [Live Edit and Spy-JS in Rider 2017.3](https://blog.jetbrains.com/dotnet/2018/02/23/live-edit-spy-js-rider-2017-3/) (JetBrains)
 * [Web developer tools in Rider 2017.3: HTTP client and SVG editing](https://blog.jetbrains.com/dotnet/2018/02/26/web-developer-tools-rider-2017-3-http-client-svg-editing/) (JetBrains)
+
+### WPF / XAML
+
+* [https://blog.jetbrains.com/dotnet/2018/03/29/xaml-preview-tool-window-wpf-rider/](https://blog.jetbrains.com/dotnet/2018/03/29/xaml-preview-tool-window-wpf-rider/) (JetBrains)
+
+### Database development
+
+* Rider database management series
+  * [Configuring SQL Server 2017 for Rider](https://blog.jetbrains.com/dotnet/2018/03/14/configuring-sql-server-2017-for-rider/) (JetBrains)
+  * [Getting started with database support in Rider](https://blog.jetbrains.com/dotnet/2018/03/15/getting-started-with-database-support-in-rider/) (JetBrains)
+  * [Working with Tables and Indexes in Rider](https://blog.jetbrains.com/dotnet/2018/03/16/working-with-tables-and-indexes-in-rider/) (JetBrains)
+  * [Working with Data in Rider](https://blog.jetbrains.com/dotnet/2018/03/19/working-data-rider/) (JetBrains)
+* [Running Entity Framework (Core) commands in Rider](https://blog.jetbrains.com/dotnet/2017/08/09/running-entity-framework-core-commands-rider/) (JetBrains)
+* [Entity Framework support in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/04/06/entity-framework-support-rider-2018-1/) (JetBrains)
 
 ### Unity
 
@@ -116,6 +157,9 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [A real IDE for #unity3d: how to install JetBrains Rider C# editor on Mac (2017) #unitytips](http://t-machine.org/index.php/2017/04/08/a-real-ide-for-unity3d-how-to-install-jetbrains-rider-c-editor-on-mac-2017-unitytips/) (community)
 * [Rider 2017.3 and Unity - Quick documentation, auto-property serialization,event functions, external class libraries, ...](https://blog.jetbrains.com/dotnet/2018/02/15/rider-2017-3-unity/) (JetBrains)
 * [Working with external class libraries in Unity and Rider](https://blog.jetbrains.com/dotnet/2018/02/20/working-external-class-libraries-unity-rider/) (JetBrains)
+* [Control Unity editor play mode with Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/04/05/control-unity-editor-play-mode-rider-2018-1/) (JetBrains)
+* [View Unity console logs directly in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/04/10/view-unity-console-logs-directly-rider-2018-1/) (JetBrains)
+* [Unity Explorer and new code inspections in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/06/14/unity-explorer-new-code-inspections-rider-2018-1/) (JetBrains)
 
 #### Videos
 
@@ -157,8 +201,4 @@ This category contains "a little bit of everything". Very often these are posts 
 * [Rider EAP 24 includes performance fixes, F# Interactive](https://blog.jetbrains.com/dotnet/2017/06/29/rider-eap-24-includes-performance-fixes-f-interactive/) (JetBrains)
 * [Rider Release Candidate: performance, refactorings, Unity and more!](https://blog.jetbrains.com/dotnet/2017/07/14/rider-release-candidate-performance-refactorings-unity/) (JetBrains)
 * [Rider 2017.2 EAP brings .NET Core 2.0, MSTest, and more](https://blog.jetbrains.com/dotnet/2017/09/04/rider-2017-2-eap-brings-net-core-2-0-mstest/) (JetBrains)
-* Database Management
-  1. [Configuring SQL Server 2017 for Rider](https://blog.jetbrains.com/dotnet/2018/03/14/configuring-sql-server-2017-for-rider/) (JetBrains)
-  2. [Getting started with database support in Rider](https://blog.jetbrains.com/dotnet/2018/03/15/getting-started-with-database-support-in-rider/) (JetBrains)
-  3. [Working with Tables and Indexes in Rider](https://blog.jetbrains.com/dotnet/2018/03/16/working-with-tables-and-indexes-in-rider/) (JetBrains)
-
+* [Rider 2018.2 Early Access Program is open!](https://blog.jetbrains.com/dotnet/2018/07/02/rider-2018-2-early-access-program-open/) (JetBrains)
